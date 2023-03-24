@@ -36,5 +36,4 @@
     
   </div>
   
-  ![snake eif](https://github.com/Martiliana/Martiliana/blog/github-contribution-grid-snake.svg
- 
+![snake gif](https://github.com/Martiliana/Martiliana/blob/output/github-contribution-grid-snake.svg)
