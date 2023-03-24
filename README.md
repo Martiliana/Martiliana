@@ -36,4 +36,4 @@
     
   </div>
   
-![snake gif](https://github.com/Martiliana/Martiliana/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Martiliana/Martiliana/blob/output/github-contribution-grid-snake.svg)
