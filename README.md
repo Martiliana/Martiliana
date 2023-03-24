@@ -36,4 +36,4 @@
     
   </div>
   
-  ![Snake animation](https://github.com/Martiliana/Martiliana)
+  ![Snake animation](https://github.com/Martiliana/Martiliana/blob/main/.github/workflows/cobrinha.yml)
