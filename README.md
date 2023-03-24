@@ -3,7 +3,7 @@
 
 - 🔭 Apaixonada por programação
 - 🌱 Estudante Ciência da Computação -UNA 1/8
-<div align="center">
+<div align=" left center">
   <a href="https://github.com/Martiliana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Martiliana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martiliana&layout=compact&langs_count=7&theme=cobalt"/>
@@ -21,7 +21,7 @@
   <img align="center" alt="Martiliana -Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Martiliana -Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
      <img align="center" alt="Martiliana -MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="right" alt="Martiliana -imag " height="215" style="border-radius:50px;" src="https://pbs.twimg.com/media/FbCSVwgWIAAgLVR?format=jpg&name=medium">
+    <img align="right" alt="Martiliana -imag " height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FbCSVwgWIAAgLVR?format=jpg&name=medium">
 </div>
   
   
